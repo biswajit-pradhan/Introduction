@@ -1,4 +1,7 @@
-# Introduction
-Hello guys this is me Biswajit Pradhan a code lover from IGIT,Sarang
-Currently I am pursuing the MCA degree here and will be graduated in 2022.
-You can contact me through my e-mail "pbiswajit967@gmail.com".
+__<h1>Introduction</h1>__
+
+:smiley: *I am __Biswajit Pradhan__*
+
+:heart_eyes: *I love to **Code***
+
+:ballot_box_with_check: *You can contact me through* **pbiswajit967@gmail.com**
